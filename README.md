@@ -1,8 +1,4 @@
-
 # Tela de Carregamento – Estilo Slack
-
-![Tela de Carregamento](https://via.placeholder.com/600x400/e0e0e0/333333?text=Loading+Screen+Preview)  
-*(Substitua esta imagem por um screenshot real ao publicar)*
 
 Uma réplica minimalista e elegante da **tela de carregamento do Slack**, feita com HTML puro e CSS. Perfeita para protótipos, landing pages ou como inspiração para interfaces de carregamento em aplicações web.
 
@@ -26,24 +22,6 @@ loading-screen/
 ├── style.css
 └── README.md
 ```
-
----
-
-## 🚀 Como usar
-
-1. **Clone este repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/loading-screen.git
-   ```
-
-2. **Abra no navegador**:
-   - Navegue até a pasta do projeto.
-   - Dê um duplo clique em `index.html` ou sirva localmente:
-     ```bash
-     npx serve  # ou python -m http.server 8000
-     ```
-
-3. **Pronto!** A tela de carregamento será exibida centralizada na página.
 
 ---
 
@@ -76,51 +54,3 @@ Exemplo: para usar tons de verde:
 - **CSS3** (Flexbox, animações com `@keyframes`)
 
 > 💡 Nenhum framework, biblioteca ou JavaScript necessário.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-Você é livre para:
-- Usar em projetos pessoais ou comerciais
-- Modificar e redistribuir
-- Aprender e ensinar
-
-Apenas mantenha os créditos originais se reutilizar o código como está.
-
----
-
-## 🙌 Créditos
-
-- Inspiração: **Slack** (interface de carregamento)
-- Desenvolvido por: **[Seu Nome ou Usuário do GitHub]**
-- Ícone de loading: baseado no design circular clássico de spinners CSS
-
----
-
-## 📬 Feedback
-
-Encontrou um bug? Tem uma sugestão? Abra uma [**Issue**](https://github.com/seu-usuario/loading-screen/issues) ou envie um Pull Request!
-
----
-
-✨ **Divirta-se codando!**
-```
-
----
-
-### ✅ Dicas finais antes de publicar:
-
-1. **Substitua os placeholders**:
-   - `seu-usuario` → seu nome de usuário do GitHub
-   - Adicione um **screenshot real** (salve como `preview.png` e atualize o link da imagem)
-   - Se quiser, crie um arquivo `LICENSE` (você pode gerar um rapidamente em [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/))
-
-2. **Ative o GitHub Pages**:
-   - Vá nas configurações do seu repositório
-   - Em **Pages**, selecione o branch `main` e a pasta raiz (`/ (root)`)
-   - Seu site ficará disponível em: `https://seu-usuario.github.io/loading-screen/`
-
-Se quiser, posso gerar também o arquivo `LICENSE` ou um script para servir localmente. É só pedir!
