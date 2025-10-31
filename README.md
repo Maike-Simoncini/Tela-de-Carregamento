@@ -16,7 +16,7 @@ Veja o projeto funcionando aqui:
 ## 📦 Estrutura do Projeto
 
 ```
-loading-screen/
+Tela-de-Carregamento/
 ├── index.html
 ├── style.css
 └── README.md
