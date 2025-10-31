@@ -9,7 +9,7 @@ Uma réplica minimalista e elegante da **tela de carregamento do Slack**, feita 
 ## 🌟 Demonstração ao vivo
 
 Veja o projeto funcionando aqui:  
-👉 [**Demo no GitHub Pages**](https://seu-usuario.github.io/loading-screen/)
+👉 [**Demo no GitHub Pages**](https://maike-simoncini.github.io/Tela-de-Carregamento/)
 
 ---
 
