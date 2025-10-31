@@ -1,6 +1,6 @@
-# Tela de Carregamento
+# Tela de Carregamento – Estilo Slack
 
-Uma elegante **tela de carregamento**, feita com HTML puro e CSS. Perfeita para protótipos, landing pages ou como inspiração para interfaces de carregamento em aplicações web.
+Uma réplica minimalista e elegante da **tela de carregamento do Slack**, feita com HTML puro e CSS. Perfeita para protótipos, landing pages ou como inspiração para interfaces de carregamento em aplicações web.
 
 > ✨ Leve, sem JavaScript, 100% responsiva e fácil de personalizar.
 
@@ -48,3 +48,8 @@ Exemplo: para usar tons de verde:
 ---
 
 ## 🧩 Tecnologias usadas
+
+- **HTML5**
+- **CSS3** (Flexbox, animações com `@keyframes`)
+
+> 💡 Nenhum framework, biblioteca ou JavaScript necessário.
