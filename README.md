@@ -1,6 +1,6 @@
 # Tela de Carregamento
 
-Uma **tela de carregamento**, feita com HTML puro e CSS. Perfeita para protótipos, landing pages ou como inspiração para interfaces de carregamento em aplicações web.
+Uma tela de carregamento, feita com HTML puro e CSS. Perfeita para protótipos, landing pages ou como inspiração para interfaces de carregamento em aplicações web.
 
 > ✨ Leve, sem JavaScript, 100% responsiva e fácil de personalizar.
 
